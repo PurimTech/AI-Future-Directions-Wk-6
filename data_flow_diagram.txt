@@ -1,0 +1,9 @@
+[Sensors: moisture, temp, humidity, pH, light, CO₂]
+            ↓
+[IoT Node / Microcontroller]
+            ↓ (preprocessed data)
+[Edge or Cloud AI Model]
+            ↓
+[Dashboard / Mobile App]
+            ↓
+[Farmer Receives Automated Recommendations]
