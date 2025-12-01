@@ -1,4 +1,4 @@
-# AI-in-SW-WK-6
+# AI-FUTURE DIRECTIONS
 # 🌟 AI Systems Assignment — Edge AI, IoT, Quantum AI & Practical Implementation
 
 This repository contains both theoretical and practical sections of the AI Systems assignment.  
@@ -49,3 +49,4 @@ python test_tflite.py
 Detailed explanations included in the assignment document.
 
 ---
+
